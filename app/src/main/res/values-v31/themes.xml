@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.GraoDaVilla" parent="Theme.Material3.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowSplashScreenBackground">@color/coffee</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>
